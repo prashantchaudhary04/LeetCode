@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashantchaudhary04/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashantchaudhary04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sliding Window
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prashantchaudhary04/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 <!---LeetCode Topics End-->
