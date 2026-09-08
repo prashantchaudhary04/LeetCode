@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/prashantchaudhary04/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -56,9 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [3870-count-commas-in-range](https://github.com/prashantchaudhary04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashantchaudhary04/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
