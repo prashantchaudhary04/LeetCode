@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/prashantchaudhary04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
