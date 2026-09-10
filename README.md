@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/prashantchaudhary04/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prashantchaudhary04/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashantchaudhary04/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashantchaudhary04/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/prashantchaudhary04/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
