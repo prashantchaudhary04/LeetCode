@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/prashantchaudhary04/LeetCode/tree/main/1952-three-divisors/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashantchaudhary04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prashantchaudhary04/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
