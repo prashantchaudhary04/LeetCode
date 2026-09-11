@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/prashantchaudhary04/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prashantchaudhary04/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/prashantchaudhary04/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashantchaudhary04/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
