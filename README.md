@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0835-image-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prashantchaudhary04/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/prashantchaudhary04/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
