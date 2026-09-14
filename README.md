@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1952-three-divisors](https://github.com/prashantchaudhary04/LeetCode/tree/main/1952-three-divisors/) | Easy |
 | [3870-count-commas-in-range](https://github.com/prashantchaudhary04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0835-image-overlap/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
