@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0844-backspace-string-compare](https://github.com/prashantchaudhary04/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashantchaudhary04/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashantchaudhary04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sliding Window
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/prashantchaudhary04/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prashantchaudhary04/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashantchaudhary04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prashantchaudhary04/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
