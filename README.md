@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashantchaudhary04/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashantchaudhary04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/prashantchaudhary04/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
