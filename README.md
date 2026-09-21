@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prashantchaudhary04/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/prashantchaudhary04/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prashantchaudhary04/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1952-three-divisors](https://github.com/prashantchaudhary04/LeetCode/tree/main/1952-three-divisors/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/prashantchaudhary04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Binary Search
