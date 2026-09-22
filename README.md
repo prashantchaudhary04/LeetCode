@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prashantchaudhary04/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1952-three-divisors](https://github.com/prashantchaudhary04/LeetCode/tree/main/1952-three-divisors/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/prashantchaudhary04/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Binary Search
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prashantchaudhary04/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
