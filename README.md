@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/prashantchaudhary04/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/prashantchaudhary04/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prashantchaudhary04/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
