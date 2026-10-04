@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prashantchaudhary04/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/prashantchaudhary04/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/prashantchaudhary04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/prashantchaudhary04/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/prashantchaudhary04/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/prashantchaudhary04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prashantchaudhary04/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/prashantchaudhary04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/prashantchaudhary04/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0835-image-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0835-image-overlap/) | Medium |
