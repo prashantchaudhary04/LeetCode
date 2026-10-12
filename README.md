@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/prashantchaudhary04/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0115-distinct-subsequences](https://github.com/prashantchaudhary04/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/prashantchaudhary04/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/prashantchaudhary04/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/prashantchaudhary04/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0115-distinct-subsequences](https://github.com/prashantchaudhary04/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
