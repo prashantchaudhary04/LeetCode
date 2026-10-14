@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/prashantchaudhary04/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0263-ugly-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/prashantchaudhary04/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prashantchaudhary04/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prashantchaudhary04/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
