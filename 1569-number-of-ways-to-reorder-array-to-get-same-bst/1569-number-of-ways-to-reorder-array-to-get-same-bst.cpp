@@ -33,7 +33,7 @@ private:
             }
         }
 		
-         long leftWays = dfs(leftNodes) % mod;
+        long long leftWays = dfs(leftNodes) % mod;
         long long rightWays = dfs(rightNodes) % mod;
 		
         return (((leftWays * rightWays) % mod) * table[m - 1][leftNodes.size()]) % mod;
