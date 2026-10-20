@@ -289,15 +289,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/prashantchaudhary04/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prashantchaudhary04/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prashantchaudhary04/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/prashantchaudhary04/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prashantchaudhary04/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/prashantchaudhary04/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prashantchaudhary04/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prashantchaudhary04/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Number Theory
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/prashantchaudhary04/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/prashantchaudhary04/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
