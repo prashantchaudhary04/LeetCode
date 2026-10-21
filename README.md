@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/prashantchaudhary04/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/prashantchaudhary04/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/prashantchaudhary04/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/prashantchaudhary04/LeetCode/tree/main/0048-rotate-image/) | Medium |
