@@ -10,9 +10,7 @@ public:
             }
 
             ans=ans.substr(0, j);
-            if(ans.empty()){
-                return "";
-            }
+            
         }
         return ans;
 
