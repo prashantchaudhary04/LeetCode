@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prashantchaudhary04/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0457-circular-array-loop](https://github.com/prashantchaudhary04/LeetCode/tree/main/0457-circular-array-loop/) | Medium |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/prashantchaudhary04/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prashantchaudhary04/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/prashantchaudhary04/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/prashantchaudhary04/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/prashantchaudhary04/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prashantchaudhary04/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0457-circular-array-loop](https://github.com/prashantchaudhary04/LeetCode/tree/main/0457-circular-array-loop/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prashantchaudhary04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prashantchaudhary04/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -503,4 +508,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/prashantchaudhary04/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
