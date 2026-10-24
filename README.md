@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantchaudhary04/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashantchaudhary04/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/prashantchaudhary04/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/prashantchaudhary04/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/prashantchaudhary04/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/prashantchaudhary04/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
