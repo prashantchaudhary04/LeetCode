@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/prashantchaudhary04/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/prashantchaudhary04/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/prashantchaudhary04/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/prashantchaudhary04/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0647-palindromic-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prashantchaudhary04/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/prashantchaudhary04/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0457-circular-array-loop](https://github.com/prashantchaudhary04/LeetCode/tree/main/0457-circular-array-loop/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prashantchaudhary04/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/prashantchaudhary04/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
