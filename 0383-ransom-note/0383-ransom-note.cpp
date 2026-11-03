@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool canConstruct(string ransomNote, string magazine) {
+        int count[26];
+
+        for(char c : magazine){
+            count[c-'a']++;
+        }
+
+        for(char c : ransomNote){
+            count[c-'a']--;
+        }
+
+        for(int i=0 ; i<26 ; i++){
+            if(count[i]<0){
+                return false;
+            }
+        }
+
+
+        return true;
+    }
+};
