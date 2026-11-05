@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/prashantchaudhary04/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/prashantchaudhary04/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantchaudhary04/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prashantchaudhary04/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/prashantchaudhary04/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/prashantchaudhary04/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantchaudhary04/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/prashantchaudhary04/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantchaudhary04/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/prashantchaudhary04/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantchaudhary04/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prashantchaudhary04/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/prashantchaudhary04/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prashantchaudhary04/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prashantchaudhary04/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/prashantchaudhary04/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashantchaudhary04/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prashantchaudhary04/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prashantchaudhary04/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prashantchaudhary04/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
