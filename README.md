@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/prashantchaudhary04/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1952-three-divisors](https://github.com/prashantchaudhary04/LeetCode/tree/main/1952-three-divisors/) | Easy |
 | [2409-count-days-spent-together](https://github.com/prashantchaudhary04/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/prashantchaudhary04/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/prashantchaudhary04/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/prashantchaudhary04/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/prashantchaudhary04/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/prashantchaudhary04/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/prashantchaudhary04/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/prashantchaudhary04/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/prashantchaudhary04/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
